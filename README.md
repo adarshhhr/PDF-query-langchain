@@ -23,7 +23,7 @@ Generate text embeddings using OpenAI's language model.
 Build a vector store using FAISS for efficient text searching.
 Use a pre-trained question-answering model to answer questions based on the PDF content.
 
-### Usage
+## Usage
 
 To use the PDF Query Tool, follow these steps:
 
@@ -34,10 +34,10 @@ Open the PdfQuery.ipynb notebook in a Jupyter environment or your preferred Pyth
 Execute the code cells in the notebook to perform PDF text querying based on natural language questions.
 To run this notebook, make sure to install the required dependencies and set your OpenAI API key as specified in the code.
 
-### Contributors
+## Contributors
 [Adarsh]
 
-### Acknowledgments
+## Acknowledgments
 OpenAI for their language model and tools used in this project.
 Feel free to explore and adapt this project to suit your needs. If you have any questions or suggestions, please don't hesitate to contact the project contributors.
 
